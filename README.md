@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sardor Narzullayev</h1>
 
-<!--
-**Narzullayev-dev/Narzullayev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Junior+Developer;Frontend+developer;Always+Learning" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 💻 Frontend Developer  
+- 🌱 Learning new technologies everyday  
+- 🎯 Goal: Build impactful products  
+
+---
+
+### 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=js,git,github,html,css" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Narzullayev-dev&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with me
+- Gmail: sardornarzulla2@gmail.com 
+
+---
